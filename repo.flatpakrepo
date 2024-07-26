@@ -1,5 +1,6 @@
 [Flatpak Repo]
 Title=lebao3105's Repository
+Url=https://lebao3105.github.io/flatpak-repo/
 Comment=Comment for what?
 Description=Repository for Linux/BSD apps, of course. Not all are multiarch.
 Homepage=https://lebao3105.github.io/flatpak-repo
